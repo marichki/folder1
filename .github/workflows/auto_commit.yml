@@ -1,8 +1,8 @@
-name: BTC Activity Bot
+name: BTC Activ Bot
 
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '11 */8 * * *'
   workflow_dispatch:
 
 jobs:
